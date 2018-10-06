@@ -16,7 +16,7 @@ tags: vector linear-algebra math review
 {:toc}
 
 
-### Vector Ad$dition
+### Vector Addition
 $$\vec{r} = [r_i, r_j], \vec{s} = [s_i, s_j]$$ <br>
 $$\vec{r} + \vec{s} = [r_i + s_i, r_j + s_j]$$
 #### Property
